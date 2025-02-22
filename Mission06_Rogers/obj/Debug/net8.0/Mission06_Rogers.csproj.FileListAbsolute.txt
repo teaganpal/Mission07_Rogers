@@ -131,3 +131,4 @@
 /Users/teagan/RiderProjects/Mission06_Rogers/Mission06_Rogers/bin/Debug/net8.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/teagan/RiderProjects/Mission06_Rogers/Mission06_Rogers/obj/Debug/net8.0/Mission06_Rogers.csproj.AssemblyReference.cache
 /Users/teagan/RiderProjects/Mission06_Rogers/Mission06_Rogers/obj/Debug/net8.0/Mission0.AB374E3A.Up2Date
+/Users/teagan/RiderProjects/Mission06_Rogers/Mission06_Rogers/obj/Debug/net8.0/Mission06_Rogers.sourcelink.json
